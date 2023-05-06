@@ -1,0 +1,1 @@
+create_index.py and compress_index.py are seperate modules. create_index.py when sorting will actually sort all the data physically in a file. To run the files, just import the files as seperate modules into a program
